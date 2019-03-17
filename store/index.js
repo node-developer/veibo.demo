@@ -5,7 +5,7 @@ export const state = () => ({
 
   articles: [
     {
-      id: '2018-12-12-javascript',
+      id: 'javascript20181212',
       cat: 'javascript',
       title: 'Promise',
       tag: 'promise',

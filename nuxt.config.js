@@ -61,5 +61,20 @@ module.exports = {
         })
       }
     }
+  },
+
+  generate: {
+    routes: [
+      '/categories/javascript',
+      '/categories/python',
+      '/categories/java',
+      '/archives/2017',
+      '/archives/2018',
+      '/tags/promise',
+      '/tags/try',
+      '/tags/test',
+      '/tags/unit',
+      '/article/javascript20181212'
+    ]
   }
 }
